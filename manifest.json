@@ -1,0 +1,11 @@
+{
+	"id": "one-note-plugin",
+	"name": "One Note clean up",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Cleaning up content imported from One Note plugin importer. Only for private use.",
+	"author": "Obsidian",
+	"authorUrl": "https://obsidian.md",
+	"fundingUrl": "https://obsidian.md/pricing",
+	"isDesktopOnly": false
+}
